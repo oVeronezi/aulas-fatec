@@ -1,0 +1,55 @@
+Classe: Carro
+
+Atributos:
+
+Marca
+
+Modelo
+
+Ano
+
+Cor
+
+
+Métodos:
+
+Acelerar: Aumenta a velocidade do carro.
+
+Frear: Reduz a velocidade do carro.
+
+
+
+Carro 1:
+
+Marca: Ford
+
+Modelo: Mustang
+
+Ano: 2022
+
+Cor: Vermelho
+
+
+Carro 2:
+
+Marca: Chevrolet
+
+Modelo: Camaro
+
+Ano: 2021
+
+Cor: Preto
+
+
+Carro 3:
+
+Marca: Toyota
+
+Modelo: Corolla
+
+Ano: 2020
+
+Cor: Branco
+
+
+ta certo? XD
